@@ -6,7 +6,7 @@ let monPerso = {
     age: 25,
     couleurPreferee: "Gris",
 }
-
+sdfsdfsdf
 
 monPerso.voiturePreferee= "Bentley Continental GT 2023";
 

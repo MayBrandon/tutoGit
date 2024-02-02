@@ -7,7 +7,7 @@ let monPerso = {
     couleurPreferee: "Gris",
 }
 sdfsdfsdf
-
+zaeaz
 monPerso.voiturePreferee= "Bentley Continental GT 2023";
 
 console.log(monPerso);

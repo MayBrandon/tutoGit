@@ -10,9 +10,3 @@ let monPerso = {
 monPerso.voiturePreferee= "Bentley Continental GT 2023";
 
 console.log(monPerso);
-
-
-
-let monFormulaire = document.getElementById("monFormulaire");
-
-monFormulaire.addEventListener('click',)
